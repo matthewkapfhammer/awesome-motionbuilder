@@ -2,6 +2,13 @@
 A curated list of awesome MotionBuilder resources. Inspired by all the awesome-... sites.
 
 
+## Forums and Communities 
+* [http://forums.autodesk.com/t5/motionbuilder-forum/bd-p/area-b203](http://forums.autodesk.com/t5/motionbuilder-forum/bd-p/area-b203)
+* [http://around-the-corner.typepad.com/.services/blog/6a0163057a21c8970d0163057a224d970d/search?filter.q=motionbuilder](http://around-the-corner.typepad.com/.services/blog/6a0163057a21c8970d0163057a224d970d/search?filter.q=motionbuilder)
+* [https://www.pinterest.com/explore/motionbuilder/](https://www.pinterest.com/explore/motionbuilder/)
+* [https://plus.google.com/u/0/s/motionbuilder/top](https://plus.google.com/u/0/s/motionbuilder/top)
+
+
 ## Art Articles and Tutorials
 * [http://www.riggingdojo.com/2016/08/30/animation-gdc-tricks-trade-motionbuilder/](http://www.riggingdojo.com/2016/08/30/animation-gdc-tricks-trade-motionbuilder/)
 * [http://mocappys.com/category/motionbuilder-tutorials/](http://mocappys.com/category/motionbuilder-tutorials/)
@@ -10,13 +17,6 @@ A curated list of awesome MotionBuilder resources. Inspired by all the awesome-.
 * [http://motionbuildertraining.blogspot.com/2009/07/tip-custom-properties-in-motionbuilder.html](http://motionbuildertraining.blogspot.com/2009/07/tip-custom-properties-in-motionbuilder.html)
 * [http://www.digitaltutors.com/11/training.php?pid=1415](http://www.digitaltutors.com/11/training.php?pid=1415)
 * [http://thecreatorsproject.vice.com/blog/robot-film-construct-may-change-everything-you-know-about-cgi](http://thecreatorsproject.vice.com/blog/robot-film-construct-may-change-everything-you-know-about-cgi)
-
-
-## Forums and Communities 
-* [http://forums.autodesk.com/t5/motionbuilder-forum/bd-p/area-b203](http://forums.autodesk.com/t5/motionbuilder-forum/bd-p/area-b203)
-* [http://around-the-corner.typepad.com/.services/blog/6a0163057a21c8970d0163057a224d970d/search?filter.q=motionbuilder](http://around-the-corner.typepad.com/.services/blog/6a0163057a21c8970d0163057a224d970d/search?filter.q=motionbuilder)
-* [https://www.pinterest.com/explore/motionbuilder/](https://www.pinterest.com/explore/motionbuilder/)
-* [https://plus.google.com/u/0/s/motionbuilder/top](https://plus.google.com/u/0/s/motionbuilder/top)
 
 
 ## Python/C++ Articles and Tutorials
@@ -47,3 +47,8 @@ A curated list of awesome MotionBuilder resources. Inspired by all the awesome-.
 ## Mocap Data
 * [http://mocap.cs.cmu.edu/](http://mocap.cs.cmu.edu/)
 * [https://accad.osu.edu/research/mocap/mocap_data.htm](https://accad.osu.edu/research/mocap/mocap_data.htm)
+
+
+## Contributing
+* Fork, modify, and submit a pull request. 
+* Add a GitHub issue with additions, corrections, etc.

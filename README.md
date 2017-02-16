@@ -31,6 +31,7 @@ A curated list of awesome MotionBuilder resources. Inspired by all the awesome-.
 * [http://www.jason-parks.com/artoftech/?p=390](http://www.jason-parks.com/artoftech/?p=390)
 * [http://forums.cgsociety.org/forumdisplay.php?s=&f=85&page=1&pp=25&sort=lastpost&order=desc&daysprune=-1](http://forums.cgsociety.org/forumdisplay.php?s=&f=85&page=1&pp=25&sort=lastpost&order=desc&daysprune=-1)
 * [http://around-the-corner.typepad.com/adn/2012/08/introduction-to-motionbuilder-openreality-sdk-programming-devtv-video.html](http://around-the-corner.typepad.com/adn/2012/08/introduction-to-motionbuilder-openreality-sdk-programming-devtv-video.html)
+* [http://techanimator.blogspot.com/2011/10/motionbuilder-python-window-focusing.html](http://techanimator.blogspot.com/2011/10/motionbuilder-python-window-focusing.html)
 
 
 

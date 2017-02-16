@@ -42,7 +42,8 @@ A curated list of awesome MotionBuilder resources. Inspired by all the awesome-.
 * [https://code.google.com/archive/p/pymobu/](https://code.google.com/archive/p/pymobu/)
 * [https://github.com/CountZer0/PipelineConstructionSet/tree/master/python/moBu](https://github.com/CountZer0/PipelineConstructionSet/tree/master/python/moBu)
 * [https://github.com/ebadier/MotionBuilder-Tools](https://github.com/ebadier/MotionBuilder-Tools)
-
+* [https://github.com/alex3dbros/MotionbuilderPublicTools](https://github.com/alex3dbros/MotionbuilderPublicTools)
+* [https://github.com/ChaosGroup/vray-for-mobu](https://github.com/ChaosGroup/vray-for-mobu)
 
 ## Mocap Data
 * [http://mocap.cs.cmu.edu/](http://mocap.cs.cmu.edu/)

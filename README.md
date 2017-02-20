@@ -52,5 +52,5 @@ A curated list of awesome MotionBuilder resources. Inspired by all the ```awesom
 
 
 ## Contributing
-* Fork, modify, and submit a pull request. 
+* Fork or clone, modify, and submit a pull request. 
 * Add a GitHub issue with additions, corrections, etc.

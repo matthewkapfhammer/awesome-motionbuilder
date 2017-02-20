@@ -33,6 +33,7 @@ A curated list of awesome MotionBuilder resources. Inspired by all the ```awesom
 * [http://around-the-corner.typepad.com/adn/2012/08/introduction-to-motionbuilder-openreality-sdk-programming-devtv-video.html](http://around-the-corner.typepad.com/adn/2012/08/introduction-to-motionbuilder-openreality-sdk-programming-devtv-video.html)
 * [http://techanimator.blogspot.com/2011/10/motionbuilder-python-window-focusing.html](http://techanimator.blogspot.com/2011/10/motionbuilder-python-window-focusing.html)
 * [http://stackoverflow.com/questions/30986020/print-log-messages-to-motionbuilder](http://stackoverflow.com/questions/30986020/print-log-messages-to-motionbuilder)
+* [https://forums.autodesk.com/t5/motionbuilder-forum/add-a-fbevent-for-fbproperty/td-p/4174562?nobounce](https://forums.autodesk.com/t5/motionbuilder-forum/add-a-fbevent-for-fbproperty/td-p/4174562?nobounce)
 
 
 ## Git Repos and Gists

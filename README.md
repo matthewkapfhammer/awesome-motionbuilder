@@ -1,5 +1,5 @@
 # Awesome Motionbuilder
-A curated list of awesome MotionBuilder resources. Inspired by all the awesome-... sites.
+A curated list of awesome MotionBuilder resources. Inspired by all the ```awesome-topicName``` style pages.
 
 
 ## Forums and Communities 

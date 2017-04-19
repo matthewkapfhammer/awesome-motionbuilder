@@ -1,5 +1,5 @@
-# Awesome Motionbuilder
-A curated list of awesome MotionBuilder resources. Inspired by all the ```awesome-topicName``` style pages.
+# Awesome MotionBuilder
+A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicName``` style pages.
 
 
 ## Forums and Communities 
@@ -21,6 +21,8 @@ A curated list of awesome MotionBuilder resources. Inspired by all the ```awesom
 
 ## Python/C++ Articles and Tutorials
 * [http://awforsythe.com/tutorials](http://awforsythe.com/tutorials)
+* [Dan Lowe's Python in MotionBuilder pt1](https://www.youtube.com/watch?v=OgD-BiK09wo)
+* [Dan Lowe's Python in MotionBuilder pt2](https://www.youtube.com/watch?v=e6sOgFxCOVw)
 * [http://www.chrisevans3d.com/pub_blog/category/motionbuilder/](http://www.chrisevans3d.com/pub_blog/category/motionbuilder/)
 * [http://www.marcuskrautwurst.com/search/label/motionbuilder](http://www.marcuskrautwurst.com/search/label/motionbuilder)
 * [http://neill3d.com/en/motionbuilder/tool-programming-in-mobu](http://neill3d.com/en/motionbuilder/tool-programming-in-mobu)

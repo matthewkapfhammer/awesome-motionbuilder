@@ -32,6 +32,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [http://neill3d.com/en/motionbuilder/scripts-for-motionbuilder](http://neill3d.com/en/motionbuilder/scripts-for-motionbuilder)
 * [http://www.omnized.com/cybergrub2/2013/04/ez-td-motionbuilder-setup](http://www.omnized.com/cybergrub2/2013/04/ez-td-motionbuilder-setup)
 * [http://www.eksod.com/tag/motionbuilder-2/](http://www.eksod.com/tag/motionbuilder-2/)
+* [http://www.eksod.com/category/motionbuilder/](http://www.eksod.com/category/motionbuilder/)
 * [http://jason-parks.com/Downloads/PythonScripting/MasterClass2007_jasonParks.pdf](http://jason-parks.com/Downloads/PythonScripting/MasterClass2007_jasonParks.pdf)
 * [http://www.jason-parks.com/artoftech/?p=390](http://www.jason-parks.com/artoftech/?p=390)
 * [http://forums.cgsociety.org/forumdisplay.php?s=&f=85&page=1&pp=25&sort=lastpost&order=desc&daysprune=-1](http://forums.cgsociety.org/forumdisplay.php?s=&f=85&page=1&pp=25&sort=lastpost&order=desc&daysprune=-1)

@@ -51,6 +51,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [https://github.com/ChaosGroup/vray-for-mobu](https://github.com/ChaosGroup/vray-for-mobu)
 * [https://github.com/shotgunsoftware/tk-motionbuilder](https://github.com/shotgunsoftware/tk-motionbuilder)
 * [https://code.google.com/archive/p/pymobu/](https://code.google.com/archive/p/pymobu/)
+* [coxevan/mobu_evaluate_decorator.py](https://gist.github.com/coxevan/e4dc8620b8e563649c0dd7691b03a2d8)
 
 ## Mocap Data
 * [http://mocap.cs.cmu.edu/](http://mocap.cs.cmu.edu/)

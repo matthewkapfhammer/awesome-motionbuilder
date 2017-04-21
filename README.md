@@ -20,6 +20,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 
 
 ## Python/C++ Articles and Tutorials
+* [http://blog.evancox.net/2017/03/07/motionbuilder-gotcha/](http://blog.evancox.net/2017/03/07/motionbuilder-gotcha/)
 * [http://awforsythe.com/tutorials](http://awforsythe.com/tutorials)
 * [Dan Lowe's Python in MotionBuilder pt1](https://www.youtube.com/watch?v=OgD-BiK09wo)
 * [Dan Lowe's Python in MotionBuilder pt2](https://www.youtube.com/watch?v=e6sOgFxCOVw)

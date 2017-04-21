@@ -45,11 +45,12 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [https://github.com/eksod/Retargeter](https://github.com/eksod/Retargeter)
 * [https://github.com/eksod/additiveAnimation](https://github.com/eksod/additiveAnimation)
 * [https://gist.github.com/OmniZ3D/5472885](https://gist.github.com/OmniZ3D/5472885)
-* [https://code.google.com/archive/p/pymobu/](https://code.google.com/archive/p/pymobu/)
 * [https://github.com/CountZer0/PipelineConstructionSet/tree/master/python/moBu](https://github.com/CountZer0/PipelineConstructionSet/tree/master/python/moBu)
 * [https://github.com/ebadier/MotionBuilder-Tools](https://github.com/ebadier/MotionBuilder-Tools)
 * [https://github.com/alex3dbros/MotionbuilderPublicTools](https://github.com/alex3dbros/MotionbuilderPublicTools)
 * [https://github.com/ChaosGroup/vray-for-mobu](https://github.com/ChaosGroup/vray-for-mobu)
+* [https://github.com/shotgunsoftware/tk-motionbuilder](https://github.com/shotgunsoftware/tk-motionbuilder)
+* [https://code.google.com/archive/p/pymobu/](https://code.google.com/archive/p/pymobu/)
 
 ## Mocap Data
 * [http://mocap.cs.cmu.edu/](http://mocap.cs.cmu.edu/)

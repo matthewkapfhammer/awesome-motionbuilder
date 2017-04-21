@@ -39,6 +39,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [http://around-the-corner.typepad.com/adn/2012/08/introduction-to-motionbuilder-openreality-sdk-programming-devtv-video.html](http://around-the-corner.typepad.com/adn/2012/08/introduction-to-motionbuilder-openreality-sdk-programming-devtv-video.html)
 * [http://techanimator.blogspot.com/2011/10/motionbuilder-python-window-focusing.html](http://techanimator.blogspot.com/2011/10/motionbuilder-python-window-focusing.html)
 * [http://stackoverflow.com/questions/30986020/print-log-messages-to-motionbuilder](http://stackoverflow.com/questions/30986020/print-log-messages-to-motionbuilder)
+* [https://forums.autodesk.com/t5/motionbuilder-forum/pyside-window-parented-to-motionbuilder-main-window/td-p/5503609](https://forums.autodesk.com/t5/motionbuilder-forum/pyside-window-parented-to-motionbuilder-main-window/td-p/5503609)
 * [https://forums.autodesk.com/t5/motionbuilder-forum/add-a-fbevent-for-fbproperty/td-p/4174562?nobounce](https://forums.autodesk.com/t5/motionbuilder-forum/add-a-fbevent-for-fbproperty/td-p/4174562?nobounce)
 * [http://www.tdhendrix.com/tutorial-random-motionbuilder-python-tidbits/](http://www.tdhendrix.com/tutorial-random-motionbuilder-python-tidbits/)
 

@@ -25,6 +25,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [Dan Lowe's Python in MotionBuilder pt1](https://www.youtube.com/watch?v=OgD-BiK09wo)
 * [Dan Lowe's Python in MotionBuilder pt2](https://www.youtube.com/watch?v=e6sOgFxCOVw)
 * [http://tech-artists.org/t/getting-at-motionbuilder-ui-elements-as-fbvisualcomponents/5743](http://tech-artists.org/t/getting-at-motionbuilder-ui-elements-as-fbvisualcomponents/5743)
+* [http://www.vicdebaie.com/blog/](http://www.vicdebaie.com/blog/)
 * [http://www.chrisevans3d.com/pub_blog/category/motionbuilder/](http://www.chrisevans3d.com/pub_blog/category/motionbuilder/)
 * [http://www.marcuskrautwurst.com/search/label/motionbuilder](http://www.marcuskrautwurst.com/search/label/motionbuilder)
 * [http://neill3d.com/en/motionbuilder/tool-programming-in-mobu](http://neill3d.com/en/motionbuilder/tool-programming-in-mobu)
@@ -38,7 +39,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [http://techanimator.blogspot.com/2011/10/motionbuilder-python-window-focusing.html](http://techanimator.blogspot.com/2011/10/motionbuilder-python-window-focusing.html)
 * [http://stackoverflow.com/questions/30986020/print-log-messages-to-motionbuilder](http://stackoverflow.com/questions/30986020/print-log-messages-to-motionbuilder)
 * [https://forums.autodesk.com/t5/motionbuilder-forum/add-a-fbevent-for-fbproperty/td-p/4174562?nobounce](https://forums.autodesk.com/t5/motionbuilder-forum/add-a-fbevent-for-fbproperty/td-p/4174562?nobounce)
-* [http://www.vicdebaie.com/blog/plotting-character-animation-with-a-motionbuilder-python-script/](http://www.vicdebaie.com/blog/plotting-character-animation-with-a-motionbuilder-python-script/)
+* [http://www.tdhendrix.com/tutorial-random-motionbuilder-python-tidbits/](http://www.tdhendrix.com/tutorial-random-motionbuilder-python-tidbits/)
 
 ## Git Repos and Gists
 * [https://github.com/Neill3d/MoBu](https://github.com/Neill3d/MoBu)

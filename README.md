@@ -47,7 +47,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [https://github.com/Neill3d/MoBu](https://github.com/Neill3d/MoBu)
 * [https://github.com/eksod/Retargeter](https://github.com/eksod/Retargeter)
 * [https://github.com/eksod/additiveAnimation](https://github.com/eksod/additiveAnimation)
-* [https://gist.github.com/OmniZ3D/5472885](https://gist.github.com/OmniZ3D/5472885)
+* [https://github.com/alinen/MotionScriptTools/tree/master/motion_builder](https://github.com/alinen/MotionScriptTools/tree/master/motion_builder)
 * [https://github.com/CountZer0/PipelineConstructionSet/tree/master/python/moBu](https://github.com/CountZer0/PipelineConstructionSet/tree/master/python/moBu)
 * [https://github.com/ebadier/MotionBuilder-Tools](https://github.com/ebadier/MotionBuilder-Tools)
 * [https://github.com/alex3dbros/MotionbuilderPublicTools](https://github.com/alex3dbros/MotionbuilderPublicTools)
@@ -55,6 +55,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [https://github.com/shotgunsoftware/tk-motionbuilder](https://github.com/shotgunsoftware/tk-motionbuilder)
 * [https://code.google.com/archive/p/pymobu/](https://code.google.com/archive/p/pymobu/)
 * [coxevan/mobu_evaluate_decorator.py](https://gist.github.com/coxevan/e4dc8620b8e563649c0dd7691b03a2d8)
+* [https://gist.github.com/OmniZ3D/5472885](https://gist.github.com/OmniZ3D/5472885)
 
 ## Mocap Data
 * [http://mocap.cs.cmu.edu/](http://mocap.cs.cmu.edu/)

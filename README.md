@@ -42,6 +42,7 @@ A curated list of MotionBuilder resources. Inspired by all the ```awesome-topicN
 * [https://forums.autodesk.com/t5/motionbuilder-forum/pyside-window-parented-to-motionbuilder-main-window/td-p/5503609](https://forums.autodesk.com/t5/motionbuilder-forum/pyside-window-parented-to-motionbuilder-main-window/td-p/5503609)
 * [https://forums.autodesk.com/t5/motionbuilder-forum/add-a-fbevent-for-fbproperty/td-p/4174562?nobounce](https://forums.autodesk.com/t5/motionbuilder-forum/add-a-fbevent-for-fbproperty/td-p/4174562?nobounce)
 * [http://www.tdhendrix.com/tutorial-random-motionbuilder-python-tidbits/](http://www.tdhendrix.com/tutorial-random-motionbuilder-python-tidbits/)
+* [https://alinen.github.io/MotionScriptTools/notes/MotionBuilderFootScripts.html](https://alinen.github.io/MotionScriptTools/notes/MotionBuilderFootScripts.html)
 
 ## Git Repos and Gists
 * [https://github.com/Neill3d/MoBu](https://github.com/Neill3d/MoBu)
